@@ -8,7 +8,7 @@ Has Many Autocomplete has only been tested on Rails 3.1.
 
 Include the gem on your Gemfile
 
-    gem 'has-many-autocomplete', :git => 'git://github.com/tombenner/has-many-autocomplete'
+    gem 'has-many-autocomplete', :git => 'git://github.com/alanmccann/has-many-autocomplete'
 
 Install it
 
